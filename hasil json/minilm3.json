@@ -1,0 +1,24 @@
+{
+  "invoice_number": null,
+  "tanggal": null,
+  "merchant": {
+    "name": null,
+    "address": "Perumahan Grand Viona Kuripan Blok H3 No.12, Kuripan, Ciseeng (H3 no 9), KAB. BOGOR, CISEENG, JAWA BARAT, ID, 16110",
+    "phone": "6287836326663",
+    "email": null
+  },
+  "items": [
+    {
+      "id": 71,
+      "name": "nivea extra bright c & e vitamin lotion 180ml",
+      "ocr_result": {
+        "name": "NIVEA Extra Bright Vitamin Lotion C&...",
+        "quantity": 1,
+        "price": 41500,
+        "total": 41500,
+        "accuration": 0.9202
+      }
+    }
+  ],
+  "grand_total": 38500
+}

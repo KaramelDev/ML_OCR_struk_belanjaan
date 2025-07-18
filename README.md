@@ -9,7 +9,10 @@ Requirement:
 Install Dependency:
 --------------------
 > pip install -r requirements.txt
-> cd utama
+
+Masuk ke Folder utama
+--------------------
+>cd utama
 
 Setup Database:
 ---------------
